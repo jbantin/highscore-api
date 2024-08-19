@@ -1,1 +1,1 @@
-Simple highscore api
+Simple highscore api with python
